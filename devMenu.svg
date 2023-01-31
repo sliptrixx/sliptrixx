@@ -10,6 +10,7 @@
     --accent-color: #FFC75F;
     --icon-background-color: #845EC2;
     --button-text-color: #152339;
+    --button-hover-color: #FF9671;
     --icon-color: #ffffff;
 }
 
@@ -73,6 +74,10 @@
     font-family: 'Roboto', sans-serif;
     color: var(--button-text-color);
     text-align: center;
+}
+
+.btn:hover {
+    background-color: var(--button-hover-color);
 }
 
 .btn_p {
