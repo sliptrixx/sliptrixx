@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**sliptrixx/sliptrixx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+	<a href="https://github.com/Hibzz-Games/Hibzz.PackageEditor">
+		<img src="packageEditor.svg" width="275" height="360" alt="Click to visit PackageEditor">
+	</a>
+    <a href="https://github.com/Hibzz-Games/Hibzz.DefineManager">
+		<img src="defineManager.svg" width="275" height="360" alt="Click to visit DefineManager">
+	</a>
+    <a href="https://github.com/Hibzz-Games/Hibzz.Hibernator">
+		<img src="hibernator.svg" width="275" height="360" alt="Click to visit Hibernator">
+	</a>
+</div>
